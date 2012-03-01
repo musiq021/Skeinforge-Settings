@@ -1,0 +1,9 @@
+Format is tab separated skeinforge settings.
+_Name                          	Value
+WindowPosition	422+71
+Open File for Skeinforge	/Users/richard/Downloads/Simple_Side_Mount.stl
+analyze	False
+craft	True
+help	False
+meta	False
+profile	False
