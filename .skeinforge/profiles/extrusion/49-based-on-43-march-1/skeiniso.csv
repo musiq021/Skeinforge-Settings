@@ -14,9 +14,9 @@ From the Bottom	False
 From the Top	True
 Draw Arrows	False
 Go Around Extruder Off Travel	False
-Layer (index):	0
+Layer (index):	4
 Layer Extra Span (integer):	912345678
-Line (index):	24
+Line (index):	0
 Display Line	False
 View Move	False
 View Rotate	True
@@ -26,8 +26,8 @@ Scale (pixels per millimeter):	7.5
 Screen Horizontal Inset (pixels):	100
 Screen Vertical Inset (pixels):	220
 Show Gcode	True
-Viewpoint Latitude (degrees):	71.8
-Viewpoint Longitude (degrees):	238.2
+Viewpoint Latitude (degrees):	19.8
+Viewpoint Longitude (degrees):	50.8
 Width of Axis Negative Side (pixels):	2
 Width of Axis Positive Side (pixels):	6
 Width of Fill Bottom Thread (pixels):	2
